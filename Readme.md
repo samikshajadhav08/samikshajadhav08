@@ -1,230 +1,229 @@
-# Hi there 👋 I'm Samiksha Jadhav
+# Hi 👋, I'm Samiksha Jadhav
 
-## 💻 Frontend Developer | Full Stack MERN Developer
+### 💻 Frontend Developer | React.js Developer | Full Stack MERN Developer
 
-I'm a **Frontend Developer & Full Stack MERN Developer** with 2+ years of experience building responsive, user-friendly, and scalable web applications.
+I’m a **Frontend Developer and Full Stack MERN Developer** focused on building responsive, user-friendly, and scalable web applications.
 
-I specialize in **React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Node.js, Express.js, and MongoDB**. I enjoy transforming UI/UX designs into clean, reusable interfaces and building complete applications with reliable REST APIs and database integration.
+My primary focus is **React.js, JavaScript, and modern frontend development**, while also strengthening my backend skills with **Node.js, Express.js, MongoDB, REST APIs, and authentication**.
 
-I'm passionate about writing maintainable code, solving real-world problems, learning modern web technologies, and continuously improving my **DSA and system design skills**.
+I enjoy transforming ideas and UI/UX concepts into clean, reusable interfaces and complete web applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+- 💻 Focused on **Frontend Development with React.js**
+- ⚛️ Building responsive and reusable React applications
+- 🌐 Working with **JavaScript (ES6+), HTML5, CSS3, and Bootstrap**
+- 🔧 Learning and building with **Node.js, Express.js, MongoDB, and Mongoose**
+- 🔐 Exploring **JWT-based authentication and authorization**
+- 🧩 Interested in **REST APIs, full-stack architecture, and clean code**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 📐 Learning **System Design fundamentals**
+- 🤖 Exploring **AI-powered web application development**
+- 🚀 Preparing for **Frontend / React.js / MERN / Full Stack Developer** opportunities
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* React Hooks
-* React Router
-* Bootstrap
-* Responsive Web Design
-* REST API Integration
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Frontend Skills**
+- React.js
+- React Hooks
+- React Router
+- Component-based architecture
+- State and props management
+- Responsive Web Design
+- REST API integration
+- Reusable UI components
 
 ### ⚙️ Backend
 
-* Node.js
-* Express.js
-* RESTful APIs
-* API Integration
-* CRUD Operations
-* JWT Authentication
-* Middleware
-* Error Handling
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Backend Skills**
+- Node.js
+- Express.js
+- RESTful APIs
+- CRUD operations
+- Middleware
+- JWT authentication
+- Authentication & authorization
+- Error handling
+- Frontend-backend integration
 
 ### 🗄️ Database
 
-* MongoDB
-* MongoDB Atlas
-* Mongoose
-* Database Design
-* CRUD Operations
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+- MongoDB
+- MongoDB Atlas
+- Mongoose
+- Database design
+- CRUD operations
 
 ### 💻 Programming Languages
 
-* JavaScript
-* Java
-* C
-* C++
+- JavaScript
+- Java
+- C
+- C++
 
-### 🛠️ Tools & Platforms
+### 🧰 Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* npm
-* Vite
-* React DevTools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## 🔥 Full Stack Development
+## 🔥 MERN Development
 
-I work with the **MERN stack** to build complete web applications:
+My full-stack development flow:
 
 ```text
 React.js
-    ↓
+   ↓
 React Router / UI Components
-    ↓
+   ↓
 REST APIs
-    ↓
+   ↓
 Node.js + Express.js
-    ↓
+   ↓
 MongoDB + Mongoose
 ```
 
-### Full Stack Skills
-
-* Building responsive React applications
-* Component-based architecture
-* State and props management
-* React Hooks
-* Client-side routing
-* REST API development
-* API consumption using frontend applications
-* Node.js backend development
-* Express.js server and middleware
-* MongoDB database integration
-* Mongoose schemas and models
-* Authentication and authorization
-* JWT-based authentication
-* CRUD functionality
-* API testing with Postman
-* Git & GitHub version control
-* Frontend and backend integration
+I’m focused on understanding and building complete applications across the frontend, backend, API, authentication, and database layers.
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
-### 🎬 DevFlix
+### 🎬 DevFlix — Movie Explorer
 
-A responsive movie discovery application built with React.js featuring:
+A responsive movie discovery application built with **React.js** and the **TMDB API**.
 
-* Movie search
-* Dynamic filtering
-* Sorting by rating and release date
-* Reusable React components
-* React Router navigation
-* TMDB API integration
-* Responsive UI
+**Features**
+- 🔎 Movie search
+- 🎯 Dynamic filtering
+- ⭐ Sorting by rating and release date
+- 🧩 Reusable React components
+- 🛣️ React Router navigation
+- 🎬 TMDB API integration
+- 📱 Responsive UI
 
-**Tech Stack:** React.js • JavaScript • HTML5 • CSS3 • Bootstrap • REST API
+**Tech:** React.js • JavaScript • HTML5 • CSS3 • Bootstrap • REST API
 
 ---
 
 ### 📚 Cheap Book Depot
 
-A responsive online book browsing platform featuring:
+A responsive online book browsing platform designed for users to discover and explore books.
 
-* Search functionality
-* Responsive design
-* Clean user interface
-* Optimized navigation
-* Reusable React components
+**Features**
+- 🔎 Search functionality
+- 📱 Responsive design
+- 🎨 Clean user interface
+- 🧭 User-friendly navigation
+- ♻️ Reusable React components
 
-**Tech Stack:** React.js • JavaScript • HTML5 • CSS3 • Bootstrap
+**Tech:** React.js • JavaScript • HTML5 • CSS3 • Bootstrap
 
 ---
 
 ### 🛒 MERN E-Commerce & Admin Dashboard
 
-A full-stack e-commerce platform designed to demonstrate real-world MERN development concepts.
+A full-stack e-commerce application built to practice real-world MERN development concepts.
 
-**Features:**
+**Features**
+- 🔐 User authentication
+- 🛡️ Admin authentication
+- 📦 Product management
+- ✏️ Product CRUD operations
+- 📊 Inventory management
+- 🔗 REST API integration
+- 🗄️ MongoDB database
+- 🔑 JWT authentication
+- 🖥️ Admin dashboard
+- 📱 Responsive React interface
 
-* User authentication
-* Admin authentication
-* Product management
-* Product CRUD operations
-* Inventory management
-* REST API integration
-* MongoDB database
-* JWT authentication
-* Admin dashboard
-* Responsive React interface
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Mongoose • JWT • Bootstrap
-
----
-
-## 🧠 Currently Learning
-
-* Advanced React.js
-* Modern JavaScript
-* Node.js & Express.js
-* MongoDB & Mongoose
-* REST API Development
-* Authentication & Authorization
-* Full Stack MERN Architecture
-* Frontend Performance Optimization
-* Data Structures & Algorithms
-* System Design Fundamentals
+**Tech:** React.js • Node.js • Express.js • MongoDB • Mongoose • JWT • Bootstrap
 
 ---
 
-## 📊 My Development Focus
+### 💱 Currency Converter
 
-```text
-Frontend Development     ████████████████████  70%
-Backend / MERN            ███████████████       55%
-DSA & Problem Solving    ████████████          40%
-System Design            ████████              30%
-```
+A simple currency converter built with **HTML, CSS, and JavaScript** that uses an API to retrieve exchange rates.
+
+**Tech:** HTML • CSS • JavaScript • REST API
+
+---
+
+## 📚 Currently Learning
+
+- ⚛️ Advanced React.js
+- 🟨 Modern JavaScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & Mongoose
+- 🔗 REST API Development
+- 🔐 Authentication & Authorization
+- 🏗️ Full Stack MERN Architecture
+- ⚡ Frontend Performance Optimization
+- 🧠 Data Structures & Algorithms
+- 📐 System Design Fundamentals
+- 🤖 AI basics for application development
+
+---
+
+## 🎯 Development Goals
+
+- Build production-ready MERN applications
+- Strengthen advanced React.js skills
+- Improve Node.js and Express.js expertise
+- Master MongoDB and REST API development
+- Strengthen DSA and problem-solving skills
+- Prepare for Frontend / React.js / MERN / Full Stack interviews
+- Contribute to open-source projects
+- Build and deploy scalable web applications
+- Explore AI-powered web applications
 
 ---
 
 ## 📜 Certifications
 
-* 🏆 Google AI Professional Certificate
-* 🏆 Microsoft Generative AI Professional Certificate
-* 🏆 Java Full Stack Development
+- 🏆 Google AI Professional Certificate
+- 🏆 Microsoft Generative AI Professional Certificate
+- 🏆 Java Full Stack Development
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Activity
 
-* Build production-ready MERN applications
-* Strengthen advanced React.js skills
-* Improve Node.js and Express.js expertise
-* Master MongoDB and REST API development
-* Strengthen DSA and problem-solving skills
-* Prepare for Full Stack / MERN Developer interviews
-* Contribute to open-source projects
-* Build and deploy scalable web applications
+I’m continuously building projects, practicing coding, exploring modern web technologies, and improving my development skills.
 
 ---
 
-## 📈 GitHub Activity
+## 🤝 Connect With Me
 
-I'm continuously building projects, experimenting with new technologies, solving coding problems, and improving my development skills.
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/samiksha-jadhav-a12b62292/
-
-💻 **GitHub:**
-https://github.com/samikshajadhav08
-
-📧 **Email:**
-[samikshaajadhav1@gmail.com](mailto:samikshaajadhav1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samiksha%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-jadhav-a12b62292/)
+[![GitHub](https://img.shields.io/badge/GitHub-samikshajadhav08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samikshajadhav08)
 
 ---
 
-## ⭐ About Me
+## 💡 My Developer Philosophy
 
-I enjoy building **responsive, scalable, and user-friendly web applications** and turning ideas into functional products.
+> **Build. Learn. Solve. Improve. Repeat. 🚀**
 
-I'm currently focused on becoming a stronger **Full Stack MERN Developer** while continuing to specialize in **React.js and frontend development**.
-
-> 🚀 Build. Learn. Solve. Improve. Repeat.
-
-Thanks for visiting my profile! 😊
+Thanks for visiting my GitHub profile! 😊
